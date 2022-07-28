@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1a8ecf4-8baf-43cc-b40b-ac1294180b39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WbmlXCZ7diy16PbDD9NBt861b6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/draw.py" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pytest2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pytest2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.draw">
+    <configuration name="chabu_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pytest2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\pytest2\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chabu_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draw" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pytest2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\pytest2\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="line_picture" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pytest2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\pytest2\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/line_picture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.chabu_test" />
+      <item itemvalue="Python.draw" />
+      <item itemvalue="Python.line_picture" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1a8ecf4-8baf-43cc-b40b-ac1294180b39" name="Default Changelist" comment="" />
+      <created>1579426819756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579426819756</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579583099551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579583099551" />
+    <state x="516" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579449640468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579449640468" />
+    <state x="548" y="118" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1579428095021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="118" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1579428095021" />
+    <state x="449" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579599745063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1579599745063" />
+    <state x="524" y="115" key="#xdebugger.evaluate" timestamp="1579515291963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1579515291963" />
+    <state x="195" y="114" key="FileChooserDialogImpl" timestamp="1579583097878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="195" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579583097878" />
+    <state width="1332" height="266" key="GridCell.Tab.0.bottom" timestamp="1579599763123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1332" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579599763123" />
+    <state width="1332" height="266" key="GridCell.Tab.0.center" timestamp="1579599763123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1332" height="266" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579599763123" />
+    <state width="1332" height="266" key="GridCell.Tab.0.left" timestamp="1579599763123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1332" height="266" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579599763123" />
+    <state width="1332" height="266" key="GridCell.Tab.0.right" timestamp="1579599763123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1332" height="266" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579599763123" />
+    <state width="1332" height="266" key="GridCell.Tab.1.bottom" timestamp="1579599763125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1332" height="266" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579599763125" />
+    <state width="1332" height="266" key="GridCell.Tab.1.center" timestamp="1579599763124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1332" height="266" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579599763124" />
+    <state width="1332" height="266" key="GridCell.Tab.1.left" timestamp="1579599763124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1332" height="266" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579599763124" />
+    <state width="1332" height="266" key="GridCell.Tab.1.right" timestamp="1579599763125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1332" height="266" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579599763125" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1579447448801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579447448801" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1579426869135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1579426869135" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1579599787071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579599787071" />
+    <state x="333" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579516876734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="333" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1579516876734" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/line_picture.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/draw.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="point_lis" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

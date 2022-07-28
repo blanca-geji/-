@@ -1,0 +1,6 @@
+import numpy as np
+a=np.load('demo.npy')
+graphTable=a.tolist()
+
+
+
